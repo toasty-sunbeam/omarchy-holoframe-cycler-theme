@@ -4,7 +4,7 @@ An [Omarchy](https://omarchy.org) theme with an animated wireframe-hologram back
 
 ![Cycler Navigation preview](preview.png)
 
-A tilted chart of the inner solar system showing an Aldrin cycler: a ship on a permanent Earth–Mars orbit (1.60 AU semi-major axis, eccentricity 0.393, period 2.135 years). Ghost lines show the previous and next cycles as the orbit turns about 48.7° each time. Earth and Mars meet the ship at every crossing, and an encounter schedule counts down to the next flyby.
+A tilted chart of the inner solar system showing an Aldrin cycler: a ship on a permanent Earth–Mars orbit (1.60 AU semi-major axis, eccentricity 0.393, period 2.135 years). Ghost lines show the previous and next cycles as the orbit turns about 48.7° each time. Earth and Mars meet the ship at every crossing, and an encounter schedule counts down to the next flyby. The chart turns with the orbit, so the loop shows exactly one full cycle and repeats with no seam.
 
 Holoframe is a set of five themes, each a single-hue hologram on near-black with bracketed HUD panels, live readouts and scanlines. Every scene is based on real engineering or physics, and all artwork is original and drawn in code.
 
@@ -18,7 +18,7 @@ omarchy theme install https://github.com/toasty-sunbeam/omarchy-holoframe-cycler
 
 | File | Purpose |
 |---|---|
-| `backgrounds/1-cycler-loop.mp4` | Seamless 30-second animated background (2560×1600, H.264). The default. |
+| `backgrounds/1-cycler-loop.mp4` | Seamless 48-second animated background (2560×1600, H.264): exactly one cycler orbit, with both the Mars and Earth flybys. The default. |
 | `backgrounds/2-cycler-still.png` | Still version (3072×1920). Switch with `omarchy theme bg next`. |
 | `colors.toml` | Palette, plus a gradient window border that fades from the accent to a dim edge. |
 | `shell.lock.toml` | Lock screen password field: a translucent card with thick side edges that light up while you type. |
