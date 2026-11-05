@@ -1,0 +1,36 @@
+# Holoframe · Cycler Navigation. Wireframe-hologram theme, one hue per variant.
+mode = "dark"
+
+accent = "#62bfff"
+selection = "#1e3b50"
+muted = "#616a74"
+
+background = "#04070c"
+dark_background = "#020305"
+darker_background = "#030508"
+lighter_background = "#0d1924"
+
+foreground = "#d3e4f2"
+dark_foreground = "#6c767f"
+light_foreground = "#b7dbf5"
+bright_foreground = "#ffffff"
+
+red = "#ff5a4e"
+yellow = "#f2c14e"
+orange = "#ff8f3a"
+green = "#8fd46a"
+cyan = "#4fd6d0"
+blue = "#5aa9ff"
+magenta = "#d07bff"
+brown = "#7a4a2a"
+
+bright_red = "#ff8378"
+bright_yellow = "#ffd97a"
+bright_green = "#b2ec8c"
+bright_cyan = "#86ece6"
+bright_blue = "#8cc4ff"
+bright_magenta = "#e3a6ff"
+
+# Window borders fade from the accent to a dim hologram edge and back, like the HUD panels.
+hyprland_active_border = "rgba(62bfffee) rgba(62bfff40) rgba(62bfffee) 45deg"
+hyprland_inactive_border = "rgba(62bfff30)"
