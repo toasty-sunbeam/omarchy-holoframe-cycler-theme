@@ -6,7 +6,7 @@ An [Omarchy](https://omarchy.org) theme with an animated wireframe-hologram back
 
 A tilted chart of the inner solar system showing an Aldrin cycler: a ship on a permanent Earth–Mars orbit (1.60 AU semi-major axis, eccentricity 0.393, period 2.135 years). Ghost lines show the previous and next cycles as the orbit turns about 48.7° each time. Earth and Mars meet the ship at every crossing, and an encounter schedule counts down to the next flyby. The chart turns with the orbit, so the loop shows exactly one full cycle and repeats with no seam.
 
-Holoframe is a set of five themes, each a single-hue hologram on near-black with bracketed HUD panels, live readouts and scanlines. Every scene is based on real engineering or physics, and all artwork is original and drawn in code.
+Holoframe is a set of six themes, each a single-hue hologram on near-black with bracketed HUD panels, live readouts and scanlines. Every scene is based on real engineering or physics, and all artwork is original and drawn in code.
 
 ## Install
 
@@ -54,6 +54,7 @@ o.bind("SUPER + ALT + P", "Pause background animation",
 - [Dyson Swarm](https://github.com/toasty-sunbeam/omarchy-holoframe-dyson-theme) (orange)
 - [O'Neill Habitat](https://github.com/toasty-sunbeam/omarchy-holoframe-oneill-theme) (magenta)
 - [Tokamak Reactor](https://github.com/toasty-sunbeam/omarchy-holoframe-tokamak-theme) (amber)
+- [Galactic Chart](https://github.com/toasty-sunbeam/omarchy-holoframe-galactic-theme) (orange HUD on the Milky Way)
 
 ## License
 
